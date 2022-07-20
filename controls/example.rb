@@ -1,6 +1,6 @@
 # copyright: 2018, The Authors
 
-title "sample section"
+title "inspec-workshop"
 
 # you can also use plain tests
 describe file("/tmp") do
